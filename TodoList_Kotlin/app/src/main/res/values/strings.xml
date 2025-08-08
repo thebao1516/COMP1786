@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoList_Kotlin</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="task_name_hint">Task name</string>
+    <string name="delete_task">Delete task</string>
+</resources>
